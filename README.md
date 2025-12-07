@@ -6,7 +6,7 @@ This repository contains an implementation and analysis of a Decision Tree model
 
 A Decision Tree is a supervised machine learning algorithm used for both classification and regression tasks. It splits the data into subsets based on feature values, creating a tree-like model of decisions.  
 
-In this project, we performed preprocessing and trained a Decision Tree to evaluate its performance on a dataset.
+In this project, we performed preprocessing and trained a Decision Tree to evaluate its performance on a dataset. We want it to predict yes or no that an employee will leave based on certain conditions such as hourly rate or age. For example, if you are paid lesser, you are more likely to leave.
 
 ## Preprocessing
 
